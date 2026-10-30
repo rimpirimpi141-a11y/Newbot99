@@ -1,0 +1,6 @@
+{
+  "name": "Refer & Earn Bot Tracker Studio",
+  "description": "Production-ready Python Telegram Bot (aiogram 3.x + aiosqlite + aiohttp Render health server) with live interactive Telegram simulator, SQLite database inspector, and one-click Render deployment files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
